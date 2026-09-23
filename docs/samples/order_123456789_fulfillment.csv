@@ -1,0 +1,2 @@
+order_id,customer_name,email,sku,product_title,quantity,unit_price,currency
+123456789,John Doe,customer@example.com,UMBRA-BLK,Umbra Black,2,74.99,USD
